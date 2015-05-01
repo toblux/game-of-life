@@ -1,0 +1,18 @@
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+*.map
+*.swp
+
+# Figwheel
+.rebel_readline_history
+figwheel_server.log
+
+# Build artifacts
+resources/public/js/
